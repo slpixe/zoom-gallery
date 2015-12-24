@@ -1,0 +1,39 @@
+{
+  "name": "zoom-gallery",
+  "authors": [
+    "Slpixe <slpixe@gmail.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "zoom-gallery.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/slpixe/zoom-gallery/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-image": "PolymerElements/iron-image#~1.0.4",
+    "jquery-colorbox": "colorbox#~1.6.3",
+    "font-awesome": "~4.5.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^3.4.0"
+  },
+  "_release": "5338e76e4f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5338e76e4f7b0b2ac5b3bc6c98fa52fb19d8ec5b"
+  },
+  "_source": "git://github.com/slpixe/zoom-gallery.git",
+  "_target": "master",
+  "_originalSource": "slpixe/zoom-gallery",
+  "_direct": true
+}
