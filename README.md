@@ -42,6 +42,11 @@ And you can run it via:
 Once running, you can preview your element at
 `http://localhost:8080/components/zoom-gallery/`, where `zoom-gallery` is the name of the directory containing it.
 
+## Updating the projects gh-page
+```
+yo polymer:gh
+```
+
 
 ## Testing Your Element
 
