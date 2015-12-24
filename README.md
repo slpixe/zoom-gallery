@@ -1,6 +1,6 @@
 # zoom-gallery
 
-An element providing a starting point for your own reusable Polymer elements.
+An element providing lightbox/colorbox functionality for image(s)
 
 
 ## Dependencies
