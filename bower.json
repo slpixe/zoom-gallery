@@ -1,6 +1,6 @@
 {
   "name": "zoom-gallery",
-  "version": "1.0.6",
+  "version": "0.0.1",
   "authors": [
     "Slpixe <slpixe@gmail.com>"
   ],
@@ -18,7 +18,9 @@
     "/test/"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.2.0"
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-image": "PolymerElements/iron-image#~1.0.4",
+    "jquery-colorbox": "colorbox#~1.6.3"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
