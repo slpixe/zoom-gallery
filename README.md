@@ -1,9 +1,18 @@
 # zoom-gallery
 
 An element providing lightbox/colorbox functionality for image(s)
+
+## [This Projects Page](http://slpixe.github.io/zoom-gallery/)
+
+## ColorBox Documentation
 * [ColorBox](http://www.jacklmoore.com/colorbox/)
 * [ColorBox Github](https://github.com/jackmoore/colorbox)
 * [ColorBox js code](https://github.com/jackmoore/colorbox/blob/master/jquery.colorbox.js)
+
+## Polymer Documentation
+* [Reuseable Element](https://www.polymer-project.org/1.0/docs/start/reusableelements.html)
+* [Dev Guide](https://www.polymer-project.org/1.0/docs/devguide/local-dom.html)
+* [Api Reference](http://polymer.github.io/polymer/)
 
 
 ## Dependencies
