@@ -1,6 +1,9 @@
 # zoom-gallery
 
 An element providing lightbox/colorbox functionality for image(s)
+[ColorBox](http://www.jacklmoore.com/colorbox/)
+[ColorBox Github](https://github.com/jackmoore/colorbox)
+[ColorBox js code](https://github.com/jackmoore/colorbox/blob/master/jquery.colorbox.js)
 
 
 ## Dependencies
