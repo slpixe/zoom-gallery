@@ -20,7 +20,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0",
     "iron-image": "PolymerElements/iron-image#~1.0.4",
-    "jquery-colorbox": "colorbox#~1.6.3"
+    "jquery-colorbox": "colorbox#~1.6.3",
+    "font-awesome": "~4.5.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",

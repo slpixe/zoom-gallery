@@ -1,5 +1,6 @@
 <link rel="import" href="../polymer/polymer.html">
 <link rel="stylesheet" href="../jquery-colorbox/example3/colorbox.css">
+<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
 
 <!--
 An element providing a solution to no problem in particular.
@@ -37,10 +38,21 @@ Example:
                 max-height: 100px;
                 max-width: 100px;
             }
+            .img-tip {
+                color: #888888;
+                text-align: center;
+            }
+            .img-tip i {
+                color: #1c8f87;
+            }
         </style>
-        <ul class="images">
+        <div class="images">
             <content></content>
-        </ul>
+        </div>
+        <div class="img-tip">
+            <i class="fa fa-search"></i>
+            Click to zoom
+        </div>
     </template>
 
     <script src="../jquery/dist/jquery.min.js"></script>
@@ -103,7 +115,8 @@ Example:
                 // loading resources, etc).
 
                 $(this.$$('.images')).find('a').colorbox({ //activate colorbox on this instance of this element
-                    rel: Math.random() //group each zoom-gallery
+                    rel: Math.random(), //group each zoom-gallery
+                    width: '90%'
                 });
             },
 
